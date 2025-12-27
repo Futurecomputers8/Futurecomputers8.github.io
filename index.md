@@ -5,7 +5,6 @@ description: "Computers 2030–2040: quantum revolution, brain-computer interfac
 ---
 
 <div class="home-hero">
-  <h1>Future Computers<br><span>2030–2040</span></h1>
   <p class="subtitle">Everything already funded and built</p>
 </div>
 
