@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} — {% endif %}Future Cars 2025–2045</title>
+  <title>{% if page.title %}{{ page.title }} — {% endif %}Future Computing 2025–2045</title>
   <meta name="description" content="{{ page.description | default: 'Cars 2025–2045: $15k EVs, 0–100 in 0.9s, full autonomy, 6-min charging, flying taxis, zero road deaths. Facts only.' }}">
   <link rel="stylesheet" href="/style.css">
 </head>
@@ -12,11 +12,24 @@
 
     <!-- Заголовок -->
     {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+    <script>
+  atOptions = {
+    'key' : '11d1b44fc69762c711e3ec722a39c8fb',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/11d1b44fc69762c711e3ec722a39c8fb/invoke.js"></script>
 
     <!-- Контент -->
     {{ content }}
 
     <!-- Навигация -->
+    <h2>You can subscribe on YouTube and TikTok so you don’t miss when a new article comes out.</h2>
+<h2>YouTube: <a href="https://youtube.com/@computing_2040?si=CHsP9sqbI8-5jaIG" target="_blank" rel="noopener noreferrer"> https://youtube.com/@computing_2040?si=CHsP9sqbI8-5jaIG </a></h2>
+<h2>TikTok: <a href="https://www.tiktok.com/@computing2040?_r=1&_t=ZN-92YqkJnrgG6" target="_blank" rel="noopener noreferrer">https://www.tiktok.com/@computing2040?_r=1&_t=ZN-92YqkJnrgG6 </a></h2>
     {% if page.previous or page.next %}
       <nav class="post-nav">
         {% if page.previous %}<a href="{{ page.previous.url }}" class="prev">← {{ page.previous.title | split: ". " | last }}</a>{% endif %}
