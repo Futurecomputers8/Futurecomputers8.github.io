@@ -7,7 +7,10 @@ categories: future computing
 tags: [privacy, transparency, surveillance, lifestreaming, dna-sniffers, whole-earth-archive, society, 2030, 2040]
 ---
 
-# 08. The End of Privacy (and the Birth of Something Better)
+
+
+
+
 
 
 
@@ -61,6 +64,3 @@ The final VPN provider went bankrupt in 2031. The last person demanding “delet
 
 Ready for a world without secrets—where almost no one even misses them?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/15/09-final-2040/">09. 2040: The Day the Computer Became the Air You Breathe</a>
-</div>

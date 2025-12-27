@@ -7,7 +7,10 @@ categories: future computing
 tags: [neuromorphic, spiking-neural-networks, loihi, akida, brainchip, edge-ai, low-power, 2030, 2040]
 ---
 
-# 06. Neuromorphic Revolution: Chips That Think Like Brains, Not Calculators
+
+
+
+
 
 
 
@@ -61,6 +64,3 @@ Those roaring fans and power-hungry GPUs of today will feel as ancient as vacuum
 
 Ready for a world where machines finally **understand** you—rather than just blindly obey?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/13/07-ambient-computing/">07. Ambient Computing: When Every Surface Becomes Intelligent Air</a>
-</div>

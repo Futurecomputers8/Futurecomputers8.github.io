@@ -7,7 +7,10 @@ categories: future computing
 tags: [ambient-computing, invisible-computing, smart-materials, metamaterials, energy-harvesting, smart-home, 2030, 2040]
 ---
 
-# 07. Ambient Computing: When Every Surface Becomes Intelligent Air
+
+
+
+
 
 
 
@@ -60,6 +63,3 @@ That rectangle in your pocket today will be the very last “computer” you eve
 
 Ready for a world where your environment is smarter than you—and always one step ahead?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/14/08-end-of-privacy/">08. The End of Privacy (and the Birth of Something Better)</a>
-</div>

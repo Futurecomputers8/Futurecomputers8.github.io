@@ -7,7 +7,10 @@ categories: future computing
 tags: [photonic, silicon-photonics, optical-computing, lightmatter, ayar-labs, reversible-computing, 2030, 2040]
 ---
 
-# 05. Photonic Computing: When Light Replaces Electrons Forever
+
+
+
+
 
 
 
@@ -60,6 +63,3 @@ That whirring fan noise from your current PC will have your children in 2040 ask
 
 Ready for a world that truly runs at the speed of light?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/12/06-neuromorphic-revolution/">06. Neuromorphic Revolution: Chips That Think Like Brains, Not Calculators</a>
-</div>

@@ -7,7 +7,10 @@ categories: future computing
 tags: [bci, neuralink, brain-interface, neural-lace, neural-dust, thought-control, 2030, 2040]
 ---
 
-# 03. Brain-Computer Interfaces: When Your Thoughts Get 10 Gbit/s Bandwidth
+
+
+
+
 
 
 
@@ -61,6 +64,3 @@ The mouse and keyboard you’re using today will have your kids giggling in fift
 
 Ready for a world where your mind is the only interface you’ll ever need?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/10/04-dna-computing-storage/">04. DNA Computing and Storage: When Biology Becomes the Hard Drive</a>
-</div>

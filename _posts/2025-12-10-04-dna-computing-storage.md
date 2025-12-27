@@ -7,7 +7,10 @@ categories: future computing
 tags: [dna-storage, dna-computing, synthetic-biology, archival-storage, enzymatic-synthesis, nanopore, 2030, 2040]
 ---
 
-# 04. DNA Computing and Storage: When Biology Becomes the Hard Drive
+
+
+
+
 
 
 
@@ -61,6 +64,3 @@ That SSD spinning in your laptop today will have your children laughing in 2040 
 
 Ready for a world where your data truly outlives empires?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/11/05-photonic-computing/">05. Photonic Computing: When Light Replaces Electrons Forever</a>
-</div>

@@ -7,7 +7,10 @@ categories: future computing
 tags: [quantum, qubits, fault-tolerant, photonic, neutral-atom, post-quantum, 2030, 2040]
 ---
 
-# 02. Quantum Revolution: The Day Classical Computing Died Forever
+
+
+
+
 
 
 
@@ -63,6 +66,3 @@ Your children will ask what a “loading bar” even meant.
 
 Ready to live in a world where “impossible” just means “I haven’t asked the quantum cluster yet”?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/09/03-brain-computer-interfaces/">03. Brain-Computer Interfaces: When Your Thoughts Get 10 Gbit/s Bandwidth</a>
-</div>
